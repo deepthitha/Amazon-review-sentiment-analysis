@@ -1,7 +1,3 @@
-# Amazon-review-sentiment-analysis
-Analysing the review of few products sold by amazon using various machine learning models to best fit the training data set to make predictions to classify a new review generated.
-
-
 #Analysis of Amazon review sentiment 
 
 this dataset contains details of the reviews for few products sold by amazon 
